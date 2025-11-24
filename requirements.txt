@@ -6,7 +6,7 @@ torch
 torchvision
 numpy
 pandas
-tempfile
 time 
 collections
 deque
+
