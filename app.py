@@ -49,7 +49,7 @@ def main():
     - 🟠 **Cam**: Cảnh báo sai (AI detect nhưng motion thấp)
     - 🟢 **Xanh**: Bình thường
     """)
-    return 0
 
 if __name__ == "__main__":
+
     main()
