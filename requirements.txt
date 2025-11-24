@@ -6,7 +6,6 @@ torch
 torchvision
 numpy
 pandas
-os
 tempfile
 time 
 collections
